@@ -6,9 +6,7 @@ In this project, we apply VaR and ES models, historical as well as parametric, t
 
 ## Prerequisites
 
-While ```R```, version 4.0.3, and its statistical libraries were used to build all applied models. ```Python```, version 3.7.10, and its ```pandas``` library were used to process the data.
-
-The ```R``` script _packages.R_ in the _packages_ folder installs and loads all necessary ```R``` packages. 
+While ```R```, version 4.0.3, and its statistical libraries were used to build all applied models. ```Python```, version 3.7.10, and its ```pandas``` library were used to process the data. The ```R``` script _packages.R_ in the _packages_ folder installs and loads all necessary ```R``` packages. 
 
 All operations, from data preprocessing to model estimation, were carried out on the Google Colaboratory platform.
 
