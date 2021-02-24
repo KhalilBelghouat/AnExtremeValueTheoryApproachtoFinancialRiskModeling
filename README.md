@@ -10,3 +10,15 @@ While ```R```, version 4.0.3, and its statistical libraries were used to build a
 
 All operations, from data preprocessing to model estimation, were carried out on the Google Colaboratory platform.
 
+## Theoretical Background
+
+## Application and Results
+
+## Code Structure
+
+### About The Data
+
+### Data Preprocessing
+
+### Model Estimation and Prediction
+
