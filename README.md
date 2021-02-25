@@ -20,5 +20,4 @@ All operations, from data preprocessing to model estimation, were carried out on
 
 ### Data Preprocessing
 
-### Model Estimation and Prediction
-
+### Model Estimation
