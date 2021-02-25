@@ -12,6 +12,9 @@ All operations, from data preprocessing to model estimation, were carried out on
 
 ## Theoretical Background
 
+The concepts of uncertainty, risk and volatility arise naturally in many fields of study concerned with decision-making. One area of ​​study in which these concepts have flourished is finance. Although they are closely related, each concept has its own definition. The American economist Frank Knight (Nov. 7, 1885 - Apr. 15, 1972) defined risk as the situation where there is a measure of probability to guide a choice. Whereas he defined uncertainty as the situation in which this measure of probability is unknown due to cognitive or informational constraints.
+
+
 ## Application and Results
 
 ## Code Structure
