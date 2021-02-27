@@ -20,6 +20,8 @@ Recommended by Basel standards on capital requirements for market risks, Value-a
 
 ### Expected Shortfall
 
+One of the principal limitations of the VaR model is its inability to adequately accomodate for tail risk. An alternative to VaR that is more sensitive to the shape of the tail of the loss distribution is the Expected Shortfall model (ES) also called Conditional Value-at-Risk (CVaR).
+
 ### Extreme Value Theory
 
 ## Application and Results
