@@ -16,6 +16,8 @@ The concepts of uncertainty, risk and volatility arise naturally in many fields 
 
 ### Value-at-Risk
 
+$$\alpha$$
+
 ### Expected Shortfall
 
 ### Extreme Value Theory
