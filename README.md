@@ -16,7 +16,7 @@ The concepts of uncertainty, risk and volatility arise naturally in many fields 
 
 ### Value-at-Risk
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=\mathrm{e}^{i \pi} = -1">
 
 
 ### Expected Shortfall
