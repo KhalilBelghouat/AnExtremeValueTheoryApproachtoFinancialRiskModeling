@@ -16,8 +16,7 @@ The concepts of uncertainty, risk and volatility arise naturally in many fields 
 
 ### Value-at-Risk
 
-<img src="https://render.githubusercontent.com/render/math?math=\mathrm{e}^{i \pi} = -1">
-
+Recommended by Basel standards on capital requirements for market risks, Value-at-Risk (VaR) is a financial metric that estimates the amount of potential loss that could happen in an investment portfolio over a specified period of time.
 
 ### Expected Shortfall
 
