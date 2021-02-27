@@ -16,13 +16,7 @@ The concepts of uncertainty, risk and volatility arise naturally in many fields 
 
 ### Value-at-Risk
 
-$ \alpha $
-
-\begin{equation}
-x = y
-\end{equation}
-
-![equation](https://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
+![my equation](https://latex.codecogs.com/gif.download?%5Czeta%28s%29%20%3D%20%5Csum_%7Bn%3D1%7D%5E%5Cinfty%20%5Cfrac%7B1%7D%7Bn%5Es%7D%5C)
 
 
 ### Expected Shortfall
