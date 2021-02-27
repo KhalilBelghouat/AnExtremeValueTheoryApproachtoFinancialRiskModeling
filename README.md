@@ -22,6 +22,9 @@ $ \alpha $
 x = y
 \end{equation}
 
+![equation](https://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
+
+
 ### Expected Shortfall
 
 ### Extreme Value Theory
