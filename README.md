@@ -16,7 +16,7 @@ The concepts of uncertainty, risk and volatility arise naturally in many fields 
 
 ### Value-at-Risk
 
-Recommended by Basel standards on capital requirements for market risks, Value-at-Risk (VaR) is a financial metric that estimates the amount of potential loss that could happen in an investment portfolio over a specified period of time.
+Recommended by Basel standards on capital requirements for market risks, Value-at-Risk (VaR) is a financial metric that estimates the amount of potential loss that could happen in an investment portfolio over a specified period of time. There are three methods of calculating VaR: the historical method, the variance-covariance (or parametric) method, and the Monte Carlo simulation.
 
 ### Expected Shortfall
 
