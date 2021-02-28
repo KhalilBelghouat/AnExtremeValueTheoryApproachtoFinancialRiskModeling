@@ -48,6 +48,7 @@ In this project, we apply VaR and ES models, historical as well as parametric, t
 :              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
 :              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
 |--------------|-----------------|----------------|----------------|----------------|----------------|
+[Caption Text]
 
 ## Code Structure
 
