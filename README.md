@@ -36,6 +36,8 @@ An alternative approach is the peak over threshold method which considers the di
 
 ## Application and Results
 
+In this project, we apply VaR and ES models, historical as well as parametric, to the Moroccan Most Active Shares Index. In addition, we employ extreme value theory, with its two approaches, in order to model the tail distribution, left and right, of the stock index daily log-returns. We get as a result:
+
 ## Code Structure
 
 ### About The Data
