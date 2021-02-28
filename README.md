@@ -24,13 +24,15 @@ One of the principal limitations of the VaR model is its inability to adequately
 
 ### Extreme Value Theory
 
-Extreme Value Theory (EVT) is a branch of statistics that has found wide application in fields such as hydrology, finance and insurance. It is useful in estimating probabilities associated with extremal events and modeling their impact. EVT employs two different modelling approaches: the block maxima method and the peak over threshold method.
+Extreme Value Theory (EVT) is a branch of statistics that has found wide application in fields such as hydrology, meteorology, finance and insurance. It is useful in estimating probabilities associated with extremal events and modeling their impact. EVT employs two different modelling approaches: the block maxima method and the peak over threshold method.
 
 #### Block Maxima 
 
 The block maxima method consists of dividing the series of interest into non-overlapping blocks of the same length and selecting the maximum the variable takes in each period. The resulting series, depending on the shape parameter, a Gumbel, Fréchet, or Weibull1 distribution will be produced.
 
 #### Peak over Threshold
+
+An alternative approach is the peak over threshold (POT) method which considers the distribution of exceedances over a certain threshold which, depending on the shape parameter, will be following an Exponential, Pareto, or Beta distribution.
 
 ## Application and Results
 
