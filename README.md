@@ -32,7 +32,7 @@ The block maxima method consists of dividing the series of interest into non-ove
 
 #### Peak over Threshold
 
-An alternative approach is the peak over threshold (POT) method which considers the distribution of exceedances over a certain threshold which, depending on the shape parameter, will be following an Exponential, Pareto, or Beta distribution.
+An alternative approach is the peak over threshold (POT) method which considers the distribution of exceedances over a certain threshold. Depending on the shape parameter, the exceedanaces will be following an Exponential, Pareto, or Beta distribution.
 
 ## Application and Results
 
