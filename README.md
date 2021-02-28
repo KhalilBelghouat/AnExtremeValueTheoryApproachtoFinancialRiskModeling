@@ -28,6 +28,8 @@ Extreme Value Theory (EVT) is a branch of statistics that has found wide applica
 
 #### Block Maxima 
 
+The block maxima method consists of dividing the series of interest into non-overlapping blocks of the same length and selecting the maximum the variable takes in each period. The resulting series, depending on the shape parameter, a Gumbel, Fréchet, or Weibull1 distribution will be produced.
+
 #### Peak over Threshold
 
 ## Application and Results
