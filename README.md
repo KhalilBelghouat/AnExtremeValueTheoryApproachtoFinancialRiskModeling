@@ -47,6 +47,11 @@ Tail | #1 | #2 | #3
 
 - for the parameters of GPD model:
 
+Tail | #1 | #2 | #3 
+--- | --- | --- | --- 
+**Left** | 301 | 283 | 290 | 286  
+**Right** | 301 | 283 | 290 
+
 - for VaR and ES at a 95% confidence level:
 
 - for VaR and ES at a 99% confidence level:
