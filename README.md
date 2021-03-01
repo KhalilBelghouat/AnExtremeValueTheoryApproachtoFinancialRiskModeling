@@ -46,8 +46,6 @@ In this project, we apply VaR and ES models, historical as well as parametric, t
 
 - For VaR and ES at a 99% confidence level:
 
-- For GPD VaR and GPD ES at a 95% confidence level:
-
 - For GPD VaR and GPD ES at a 99% confidence level:
 
 ## Code Structure
