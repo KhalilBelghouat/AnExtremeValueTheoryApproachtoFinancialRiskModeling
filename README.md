@@ -40,6 +40,10 @@ In this project, we apply VaR and ES models, historical as well as parametric, t
 
 - for the parameters of the GEV model:
 
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
 - for the parameters of GPD model:
 
 - for VaR and ES at a 95% confidence level:
