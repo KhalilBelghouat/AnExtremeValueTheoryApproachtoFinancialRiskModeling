@@ -56,21 +56,21 @@ Tail | mu | sigma
 
 Method | VaR | ES 
 --- | --- | --- 
-**Historical** | |
-**Parametric** | | 
+**Historical** | -0.0105750 | -0.01794283
+**Parametric** | -0.0121665 | -0.0153354
 
 - for VaR and ES at a 99% confidence level:
 
 Method | VaR | ES 
 --- | --- | --- 
-**Historical** | |
-**Parametric** | | 
+**Historical** | -0.02138261 | -0.03182365
+**Parametric** | -0.01733472 | -0.01990456
 
 - for GPD VaR and GPD ES at a 99% confidence level:
 
 | VaR | ES 
 --- | --- 
-a | a
+ |
 
 ## Code Structure
 
