@@ -38,15 +38,15 @@ An alternative approach is the peak over threshold method which considers the di
 
 In this project, we apply VaR and ES models, historical as well as parametric, to the Moroccan Most Active Shares Index. In addition, we employ extreme value theory, with its two approaches, in order to model the tail distribution, left and right, of the stock index daily log-returns. We get as a result:
 
-- For the parameters of the GEV model:
+- for the parameters of the GEV model:
 
-- For the parameters of GPD model:
+- for the parameters of GPD model:
 
-- For VaR and ES at a 95% confidence level:
+- for VaR and ES at a 95% confidence level:
 
-- For VaR and ES at a 99% confidence level:
+- for VaR and ES at a 99% confidence level:
 
-- For GPD VaR and GPD ES at a 99% confidence level:
+- for GPD VaR and GPD ES at a 99% confidence level:
 
 ## Code Structure
 
