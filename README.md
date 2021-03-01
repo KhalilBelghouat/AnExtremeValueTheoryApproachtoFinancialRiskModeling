@@ -70,7 +70,7 @@ Method | VaR | ES
 
 | VaR | ES 
 --- | --- 
-    |   
+a | a
 
 ## Code Structure
 
