@@ -81,6 +81,8 @@ The data, a financial time series, is organized in a table containing 3 columns 
 
 ### Data Preprocessing
 
+The financial times series was downloaded from Casablanca Stock Exchange's official website. Unlike Yahoo Finance, the former allows the downloading of an ASPX file containing one year of data only.
 
+The ```Python``` scripts *preprocessing.py* in the *preprocessing* folder passes the yearly MADEX data through important data preprocessing steps in that it merges all the yearly data into one times serie from 1992 to 2020 into a single CSV file.
 
 ### Model Estimation
