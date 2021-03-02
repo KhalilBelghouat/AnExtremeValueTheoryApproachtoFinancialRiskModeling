@@ -40,14 +40,14 @@ In this project, we apply VaR and ES models, historical as well as parametric, t
 
 - for the parameters of the GEV model:
 
-Tail | mu | sigma | xi
+Tail | location | scale | shape
 --- | --- | --- | --- 
 **Left** | 0.021800794 | 0.009030447 | 0.237656761
 **Right** | 0.025393659 | 0.009684089 | -0.105213186
 
 - for the parameters of GPD model:
 
-Tail | sigma | xi
+Tail | scale | shape
 --- | --- | --- 
 **Left** | 0.007033938 | 0.156857714 
 **Right** | 0.006054659 | 0.132294303
@@ -77,6 +77,10 @@ Tail | VaR | ES
 
 ### About The Data
 
+The data, a financial time series, is organized in a table containing 3 columns and 7,214 rows. The first column contains the date, the second column contains the MADEX index, and the third column contains the index's daily variations.
+
 ### Data Preprocessing
+
+
 
 ### Model Estimation
