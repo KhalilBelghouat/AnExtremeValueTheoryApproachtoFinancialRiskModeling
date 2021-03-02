@@ -68,9 +68,10 @@ Method | VaR | ES
 
 - for GPD VaR and GPD ES at a 99% confidence level:
 
-| VaR | ES 
---- | --- 
- |
+Tail | VaR | ES 
+--- | --- | --- 
+**Left** |  |
+**Right** |  |
 
 ## Code Structure
 
