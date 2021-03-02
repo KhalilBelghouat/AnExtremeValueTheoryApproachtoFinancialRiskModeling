@@ -47,7 +47,7 @@ Tail | mu | sigma | xi
 
 - for the parameters of GPD model:
 
-Tail | mu | sigma 
+Tail | sigma | xi
 --- | --- | --- 
 **Left** | 0.007033938 | 0.156857714 
 **Right** | 0.006054659 | 0.132294303
