@@ -86,3 +86,5 @@ The financial times series was downloaded from Casablanca Stock Exchange's offic
 The ```Python``` scripts *preprocessing.py* in the *preprocessing* folder passes the yearly MADEX data through important data preprocessing steps in that it merges all the yearly data into one times serie from 1992 to 2020 into a single CSV file.
 
 ### Model Estimation
+
+The historical and parametric VaR and ES were estimated using the ```PerformanceAnalytics``` package. As for the parameters of the GEV and GPD models, they were all estimated using the maximum likelihood method. For this we used different EVT packages as well as estimated them from scratch.
